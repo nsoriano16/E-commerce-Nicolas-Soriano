@@ -19,18 +19,15 @@ body{
     height: 600px;
 }
 .carousel-image-1{
-    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url(./images/carousel1.jpg);
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url(./images/carousel1.jpg);
     background-size: cover;
 }
 .carousel-image-2{
-    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url(./images/carousel2.jpg);
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url(./images/carousel2.jpg);
     background-size: cover;
 }
 .carousel-image-3{
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url(./images/carousel3.jpg);
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url(./images/carousel3.jpg);
     background-size: cover;
 }
 .h-color{
